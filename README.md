@@ -47,7 +47,7 @@ You will need **Node.js** installed on your computer. You can download it for fr
    git clone [https://github.com/vbtrigona/vbtrigona.git](https://github.com/vbtrigona/vbtrigona.git)
    ```
 
-2. **Open the project folder
+2. **Open the project folder**
 
     ```bash
     cd vbtrigona
@@ -74,6 +74,7 @@ You will need **Node.js** installed on your computer. You can download it for fr
 
 Here is a quick map of how the code is structured
 
+```text
 ├── public/              # Pictures, icons, and my downloadable resume PDF
 └── src/
     └── app/
@@ -85,6 +86,7 @@ Here is a quick map of how the code is structured
         ├── resume/      # The folder for the Resume page displaying my resume
         ├── socials/     # The folder for the Socials page containing links to my social media
         └── watch/       # The folder for the Watch page containing links to my content
+```
 
 ---
 
