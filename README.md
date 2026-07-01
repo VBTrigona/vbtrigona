@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hey, gamers! 👋
 
 <!--
 **VBTrigona/vbtrigona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my project website & a Bee-themed "Wordle-like" game!
+- 🌱 I’m currently learning basic web & app development.
+- 💬 Ask me about anime like Toriko & the entire Dragon Ball/Z/Super franchise, because I will yap for hours.
+- 📫 How to reach me: [vbtrigona@proton.me](vbtrigona@proton.me)
+- 😄 Pronouns: she/they
