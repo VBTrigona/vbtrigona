@@ -44,7 +44,7 @@ You will need **Node.js** installed on your computer. You can download it for fr
 1. **Clone (download) this repository:**
 
    ```bash
-   git clone [https://github.com/vbtrigona/vbtrigona.git](https://github.com/vbtrigona/vbtrigona.git)
+   git clone https://github.com/vbtrigona/vbtrigona.git
    ```
 
 2. **Open the project folder**
