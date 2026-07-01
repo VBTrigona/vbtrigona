@@ -10,6 +10,9 @@
 
 ## Overview
 
+<details>
+<summary>Click here to see how my personal website functions</summary>
+
 Welcome to my personal website project! I built this site to replace my Carrd as a central hub for everything I've done. It holds all of my important links (like a Linktree or Carrd), showcases the projects I've worked on, both programming and otherwise.
 
 I built this from scratch using **Next.js**, **HTML**, and **CSS** so it loads super fast and looks great on both phones and computers.
@@ -89,3 +92,5 @@ Here is a quick map of how the code is structured
 
 - **Linkedin**: [/in/selah-c-williams](https://linkedin.com/in/selah-c-williams)
 - **Email**: [vbtrigona@proton.me](mailto:vbtrigona@proton.me)
+
+</details>
