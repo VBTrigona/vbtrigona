@@ -47,13 +47,13 @@ You will need **Node.js** installed on your computer. You can download it for fr
    git clone https://github.com/vbtrigona/vbtrigona.git
    ```
 
-2. **Open the project folder**
+2. **Open the project folder:**
 
     ```bash
     cd vbtrigona
     ```
 
-3. **Install the project files**
+3. **Install the project files:**
 
     ```bash
     npm install
@@ -65,7 +65,7 @@ You will need **Node.js** installed on your computer. You can download it for fr
     npm run dev
     ```
 
-5. **View the website**
+5. **View the website:**
     Open your internet browser and go to [http://localhost:3000](http://localhost:3000)
 
 ---
@@ -92,7 +92,7 @@ Here is a quick map of how the code is structured
 
 ## Let's Connect
 
-- **Linkedin**: [/in/selah-c-williams](https://linkedin.com/in/selah-c-williams)
-- **Email**: [vbtrigona@proton.me](mailto:vbtrigona@proton.me)
+- **Linkedin:** [/in/selah-c-williams](https://linkedin.com/in/selah-c-williams)
+- **Email:** [vbtrigona@proton.me](mailto:vbtrigona@proton.me)
 
 </details>
