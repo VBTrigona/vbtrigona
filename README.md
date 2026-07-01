@@ -16,7 +16,7 @@
 Welcome to my personal website project! I built this site to replace my Carrd as a central hub for everything I've done. It holds all of my important links (like a Linktree or Carrd), showcases the projects I've worked on, both programming and otherwise.
 
 I built this from scratch using **Next.js**, **HTML**, and **CSS** so it loads super fast and looks great on both phones and computers.
-This is the project that taught me how to use **Next.js**.
+This is the project that taught me how to use **Next.js** & **Penpot** (Figma alternative).
 
 ---
 
