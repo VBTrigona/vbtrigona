@@ -8,7 +8,7 @@
 
 ---
 
-## Overview
+## Personal Website Overview
 
 <details>
 <summary>Click here to see how my personal website functions</summary>
